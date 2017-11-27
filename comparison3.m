@@ -1,7 +1,7 @@
 clear all;
 close all;
 clc;
-
+% just a comment
 %% var covariance test
 mu = [0 0];
 RL = [0.1 0.3 0.5 0.7 0.9];
